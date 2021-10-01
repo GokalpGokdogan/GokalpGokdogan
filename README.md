@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @GokalpGokdogan
 - 🌱 I’m currently studying at BILKENT UNIVERSITY
+- Freshman
