@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @GokalpGokdogan
-- 🌱 I’m currently studying at BILKENT UNIVERSITY
+- Hi, I’m @GokalpGokdogan
+- I'm a fullstack software engineer
+- I have graduated from BILKENT UNIVERSITY
